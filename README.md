@@ -103,7 +103,7 @@ Contributions are welcome! If you have improvements or additional exercises:
 ## 📞 Connect & Collaborate
 
 - 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/yashvardhan-jani)
-- 📧 **Email:** yashvardhanjani7@gmail.com
+- 📧 **Email:** [yashvardhanjani7@gmail.com](mailto:yashvardhanjani7@gmail.com)
 - 🐙 **GitHub:** [@YashvardhanJani](https://github.com/YashvardhanJani)
 
 ## 📈 Repository Stats
