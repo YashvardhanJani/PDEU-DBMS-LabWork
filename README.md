@@ -17,23 +17,23 @@ This repository contains **SQL files** as part of the **Database Management Syst
 
 | Experiments | Description | Topics Covered | Link |
 |-------------|-------------|----------------|------|
-| Experiment-01    | Data Creation & File Handling | Using Python | 🔗[View](./Experiment-01) |
-| Experiment-02    | DDL Commands | CREATE, ALTER, DROP, TRUNCATE | 🔗[View](./Experiment-02) |
-| Experiment-03    | DML Commands | INSERT, UPDATE, DELETE with constraints NOT NULL, UNIQUE, CHECK | 🔗[View](./Experiment-03) |
-| Experiment-04    | DDL with Data Constraints | PRIMARY KEY, FOREIGN KEY | 🔗[View](./Experiment-04) |
-| Experiment-05    | DCL Commands | GRANT, REVOKE | 🔗[View](./Experiment-05) |
-| Experiment-06    | TCL Commands | COMMIT, ROLLBACK, SAVEPOINT | 🔗[View](./Experiment-06) |
-| Experiment-07    | Aggregate Functions | SUM(), AVG(), COUNT() | 🔗[View](./Experiment-07) |
-| Experiment-08    | Subqueries & Nested Queries | Correlated & Non-correlated Subqueries | 🔗[View](./Experiment-08) |
-| Experiment-09    | Joins & Clauses | All Joins, GROUP BY, HAVING | 🔗[View](./Experiment-09) |
-| Experiment-10    | Stored Procedures, Functions & Triggers | PL/SQL Programming - Data Integrity & Automation | 🔗[View](./Experiment-10) |
+| Experiment-01     | Data Creation & File Handling | Using Python | 🔗[View](./Experiment-01) |
+| Experiment-02     | DDL Commands | CREATE, ALTER, DROP, TRUNCATE | 🔗[View](./Experiment-02) |
+| Experiment-03     | DML Commands | INSERT, UPDATE, DELETE with constraints NOT NULL, UNIQUE, CHECK | 🔗[View](./Experiment-03) |
+| Experiment-04     | DDL with Data Constraints | PRIMARY KEY, FOREIGN KEY | 🔗[View](./Experiment-04) |
+| Experiment-05     | DCL Commands | GRANT, REVOKE | 🔗[View](./Experiment-05) |
+| Experiment-06     | TCL Commands | COMMIT, ROLLBACK, SAVEPOINT | 🔗[View](./Experiment-06) |
+| Experiment-07     | Aggregate Functions | SUM(), AVG(), COUNT() | 🔗[View](./Experiment-07) |
+| Experiment-08     | Subqueries & Nested Queries | Correlated & Non-correlated Subqueries | 🔗[View](./Experiment-08) |
+| Experiment-09     | Joins & Clauses | All Joins, GROUP BY, HAVING | 🔗[View](./Experiment-09) |
+| Experiment-10     | Stored Procedures, Functions & Triggers | PL/SQL Programming - Data Integrity & Automation | 🔗[View](./Experiment-10) |
 
 ## 🛠️ Technologies & Tools Used
 
 | Category | Technologies |
 |----------|-------------|
 | **Database** | MySQL 8.0 |
-| **Languages** | SQL, PL/SQL |
+| **Languages** | SQL, PL/SQL, Python |
 | **Tools** | MySQL Workbench, Command Line Interface |
 
 ## 📋 Lab Exercise Categories
