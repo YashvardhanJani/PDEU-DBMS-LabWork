@@ -15,18 +15,18 @@
 ## 📂 Repository Structure
 This repository contains **SQL files** as part of the **Database Management Systems Course**.
 
-| Lab Session | Description | Topics Covered | Link |
+| Experiments | Description | Topics Covered | Link |
 |-------------|-------------|----------------|------|
-| Lab01      | Data Creation & File Handling | Using Python | 🔗[View](./Lab01) |
-| Lab02      | DDL Commands | CREATE, ALTER, DROP, TRUNCATE | 🔗[View](./Lab02) |
-| Lab03      | DML Commands | INSERT, UPDATE, DELETE with constraints NOT NULL, UNIQUE, CHECK | 🔗[View](./Lab03) |
-| Lab04      | DDL with Data Constraints | PRIMARY KEY, FOREIGN KEY | 🔗[View](./Lab04) |
-| Lab05      | DCL Commands | GRANT, REVOKE | 🔗[View](./Lab05) |
-| Lab06      | TCL Commands | COMMIT, ROLLBACK, SAVEPOINT | 🔗[View](./Lab06) |
-| Lab07      | Aggregate Functions | SUM(), AVG(), COUNT() | 🔗[View](./Lab07) |
-| Lab08      | Subqueries & Nested Queries | Correlated & Non-correlated Subqueries | 🔗[View](./Lab08) |
-| Lab09      | Joins & Clauses | All Joins, GROUP BY, HAVING | 🔗[View](./Lab09) |
-| Lab10      | Stored Procedures, Functions & Triggers | PL/SQL Programming - Data Integrity & Automation | 🔗[View](./Lab10) |
+| Experiment-01    | Data Creation & File Handling | Using Python | 🔗[View](./Experiment-01) |
+| Experiment-02    | DDL Commands | CREATE, ALTER, DROP, TRUNCATE | 🔗[View](./Experiment-02) |
+| Experiment-03    | DML Commands | INSERT, UPDATE, DELETE with constraints NOT NULL, UNIQUE, CHECK | 🔗[View](./Experiment-03) |
+| Experiment-04    | DDL with Data Constraints | PRIMARY KEY, FOREIGN KEY | 🔗[View](./Experiment-04) |
+| Experiment-05    | DCL Commands | GRANT, REVOKE | 🔗[View](./Experiment-05) |
+| Experiment-06    | TCL Commands | COMMIT, ROLLBACK, SAVEPOINT | 🔗[View](./Experiment-06) |
+| Experiment-07    | Aggregate Functions | SUM(), AVG(), COUNT() | 🔗[View](./Experiment-07) |
+| Experiment-08    | Subqueries & Nested Queries | Correlated & Non-correlated Subqueries | 🔗[View](./Experiment-08) |
+| Experiment-09    | Joins & Clauses | All Joins, GROUP BY, HAVING | 🔗[View](./Experiment-09) |
+| Experiment-10    | Stored Procedures, Functions & Triggers | PL/SQL Programming - Data Integrity & Automation | 🔗[View](./Experiment-10) |
 
 ## 🛠️ Technologies & Tools Used
 
