@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🗃️ PDEU DBMS Lab Repository
+# 🗃️ PDEU DBMS Lab Programs
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" alt="SQL" />
+  &nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/github/stars/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub Stars" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/forks/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub Forks" />
