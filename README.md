@@ -1,4 +1,18 @@
-# PDEU DBMS Lab Repository 🗃️
+<div align="center">
+
+# 🗃️ PDEU DBMS Lab Repository
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub Stars" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/forks/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub Forks" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/issues/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub Issues" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/license/YashvardhanJani/PDEU-DBMS-LabWork" alt="License" />
+</p>
+
+</div>
 
 ## 📌 Student Details  
 
@@ -106,17 +120,12 @@ Contributions are welcome! If you have improvements or additional exercises:
 - 📧 **Email:** [yashvardhanjani7@gmail.com](mailto:yashvardhanjani7@gmail.com)
 - 🐙 **GitHub:** [@YashvardhanJani](https://github.com/YashvardhanJani)
 
-## 📈 Repository Stats
-
-![GitHub stars](https://img.shields.io/github/stars/YashvardhanJani/PDEU-DBMS-LabWork?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YashvardhanJani/PDEU-DBMS-LabWork?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YashvardhanJani/PDEU-DBMS-LabWork)
-![GitHub license](https://img.shields.io/github/license/YashvardhanJani/PDEU-DBMS-LabWork)
-
-## 📝 License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
+<div align="center">
 **Made with ❤️ by Yashvardhan Jani | CSE Student @ PDEU**
+<div>
