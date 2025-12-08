@@ -1,9 +1,10 @@
 <div align="center">
+<a id="top"></a>
 
 # 🗃️ PDEU DBMS Lab Programs
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" alt="SQL" />
+  <img src="https://img.shields.io/badge/-SQL-FFF?&logo=MySQL&logoColor=4479A1" alt="SQL" />
   &nbsp;&nbsp;&nbsp; 
   <img src="https://img.shields.io/github/stars/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub Stars" />
   &nbsp;&nbsp;&nbsp;
@@ -11,12 +12,30 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/issues/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub Issues" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/license/YashvardhanJani/PDEU-DBMS-LabWork" alt="License" />
+  <img src="https://img.shields.io/github/issues-pr/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub pull requests" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/repo-size/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub Repo size" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/last-commit/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="GitHub last commit" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/license/YashvardhanJani/PDEU-DBMS-LabWork?style=social" alt="License" />
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YashvardhanJani.PDEU-DBMS-LabWork&left_color=grey&right_color=black&format=true" alt="visitor" />
 </p>
+
+---
+
+**[Repository Structure](#repository-structure)** • 
+**[Getting Started](#quick-start-guide)** • 
+**[Project](#major-project)** • 
+**[Contributing](#contribution)** •
+**[Connect](#connect--collaborate)**
+
+---
 
 </div>
 
-## 📌 Student Details  
+## Student Details  
 
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="Database Logo" width="120">
 
@@ -24,11 +43,11 @@
 - **Branch:** Computer Science & Engineering (CSE)  
 - **College:** Pandit Deendayal Energy University, Gandhinagar, Gujarat, India
 
-## 🎓 Instructors (Professors)
+## Instructors (Professors)
 - **Lab Instructor:** Dr. Kalgi Gandhi 
 - **Theory Lecture Instructor:** Dr. Debabrata Swain  
  
-## 📂 Repository Structure
+## Repository Structure
 This repository contains **SQL files** as part of the **Database Management Systems Course**.
 
 | Experiments | Description | Topics Covered | Link |
@@ -44,42 +63,42 @@ This repository contains **SQL files** as part of the **Database Management Syst
 | Experiment-09     | Joins & Clauses | All Joins, GROUP BY, HAVING | 🔗[View](./Experiment-09) |
 | Experiment-10     | Stored Procedures, Functions & Triggers | PL/SQL Programming - Data Integrity & Automation | 🔗[View](./Experiment-10) |
 
-## 🛠️ Technologies & Tools Used
+## Lab Exercise Categories
+
+- ### **Data Definition Language (DDL)**
+  - Table creation and modification
+  - Schema design and normalization
+  - Index creation and management
+
+- ### **Data Manipulation Language (DML)**
+  - Data insertion, updating, and deletion
+  - Bulk data operations
+  - Transaction management
+
+- ### **Data Query Language (DQL)**
+  - Complex SELECT statements
+  - Multi-table joins
+  - Aggregate functions and grouping
+
+- ### **Data Control Language (DCL)**
+  - User access management
+  - Grant and revoke permissions
+  - Database security implementation
+
+- ### **Transaction Control Language (TCL)**
+  - Managing transactions
+  - Using COMMIT, ROLLBACK and SAVEPOINT
+  - Ensuring data consistency and recovery
+
+## Technologies & Tools Used
 
 | Category | Technologies |
 |----------|-------------|
 | **Database** | MySQL 8.0 |
 | **Languages** | SQL, PL/SQL, Python |
-| **Tools** | MySQL Workbench, Command Line Interface |
+| **Tools** | MySQL Workbench, Command Line Interface |  
 
-## 📋 Lab Exercise Categories
-
-### 🔧 **Data Definition Language (DDL)**
-- Table creation and modification
-- Schema design and normalization
-- Index creation and management
-
-### 📝 **Data Manipulation Language (DML)**
-- Data insertion, updating, and deletion
-- Bulk data operations
-- Transaction management
-
-### 🔍 **Data Query Language (DQL)**
-- Complex SELECT statements
-- Multi-table joins
-- Aggregate functions and grouping
-
-### 🎛️ **Data Control Language (DCL)**
-- User access management
-- Grant and revoke permissions
-- Database security implementation
-
-### 💾 **Transaction Control Language (TCL)**
-- Managing transactions
-- Using COMMIT, ROLLBACK and SAVEPOINT
-- Ensuring data consistency and recovery
-
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 1. **Clone the repository:**  
    ```bash
@@ -87,18 +106,23 @@ This repository contains **SQL files** as part of the **Database Management Syst
    cd PDEU-DBMS-LabWork
    ```
 
-## 📚 Learning Outcomes
+## Major Project
+
+### **[DBMS Lab Project - University Management System](https://github.com/YashvardhanJani/DBMS-Lab-Project)**
+> *A comprehensive database project demonstrates real-world database design, implementation and management principles through building a complete university operations platform.*   
+
+## Learning Outcomes
 
 After completing these lab exercises, you will have mastered:
 
-- ✅ **Database Design** - ER diagrams, normalization, schema design
-- ✅ **SQL Programming** - Complex queries, joins, subqueries
-- ✅ **Database Administration** - User management, backup/recovery
-- ✅ **Performance Tuning** - Index optimization, query optimization
-- ✅ **Data Integrity** - Constraints, triggers, stored procedures
-- ✅ **Real-world Applications** - Project development and implementation
+- **Database Design** - ER diagrams, normalization, schema design
+- **SQL Programming** - Complex queries, joins, subqueries
+- **Database Administration** - User management, backup/recovery
+- **Performance Tuning** - Index optimization, query optimization
+- **Data Integrity** - Constraints, triggers, stored procedures
+- **Real-world Applications** - Project development and implementation
 
-## 🫱🏻‍🫲🏼 Contributing
+## Contribution
 
 Contributions are welcome! If you have improvements or additional exercises:
 
@@ -116,13 +140,13 @@ Contributions are welcome! If you have improvements or additional exercises:
 
 ---
 
-## 📞 Connect & Collaborate
+## Connect & Collaborate
 
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/yashvardhan-jani)
-- 📧 **Email:** [yashvardhanjani7@gmail.com](mailto:yashvardhanjani7@gmail.com)
-- 🐙 **GitHub:** [@YashvardhanJani](https://github.com/YashvardhanJani)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/yashvardhan-jani)
+- **Email:** [yashvardhanjani7@gmail.com](mailto:yashvardhanjani7@gmail.com)
+- **GitHub:** [@YashvardhanJani](https://github.com/YashvardhanJani)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -131,5 +155,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 **Made with ❤️ by Yashvardhan Jani | CSE Student @ PDEU**
+
+---
+
+⬆️ [Back to Top](#top)
 
 <div>
