@@ -63,6 +63,17 @@ This repository contains **SQL files** as part of the **Database Management Syst
 | Experiment-09     | Joins & Clauses | All Joins, GROUP BY, HAVING | 🔗[View](./Experiment-09) |
 | Experiment-10     | Stored Procedures, Functions & Triggers | PL/SQL Programming - Data Integrity & Automation | 🔗[View](./Experiment-10) |
 
+- ### **End-Sem Lab Practical Exam**
+<table>
+  <tr>
+    <td>Practical Exam - 2025</td>
+    <td><a href="./Practical-Exam/Set01.sql">Set 01</a></td>
+    <td><a href="./Practical-Exam/Set02.sql">Set 02</a></td>
+    <td><a href="./Practical-Exam/Set03.sql">Set 03</a></td>
+    <td><a href="./Practical-Exam/Set04.sql">Set 04</a></td>
+  </tr>
+</table>
+
 ## Lab Exercise Categories
 
 - ### **Data Definition Language (DDL)**
